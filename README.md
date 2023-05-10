@@ -2,8 +2,6 @@
 playing with embedding html into notion.so
 
 
-https://subatomicglue.github.io/html-snip-for-notion/index.html
+Preview the HTML here:
+- https://htmlpreview.github.io/?https://github.com/subatomicglue/html-snip-for-notion/blob/main/index.html
 
-https://subatomicglue.github.io/html-snip-for-notion/
-
-https://subatomicglue.github.io/
